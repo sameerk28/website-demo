@@ -3,7 +3,7 @@
 
     <body style="background-color:#FFFFE0;">
 	
-    <h1><p style=”font-family:Optima; color:"violet";align="center”>New Student Registeration for DevOps Learning</p></h1></font>
+    <h1 style="font-size: 4rem"><p style=”font-family:Optima; color:"violet";align="center”;">New Student Registeration for DevOps Learning</p></h1></font>
     <p><FONT COLOR="purple"><h2>Please fill in this form to create an account.</h2></font></p>
     <hr>
      
