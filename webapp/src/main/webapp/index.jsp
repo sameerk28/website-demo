@@ -1,7 +1,8 @@
 <form action="action_page.php">
   <div class="container">
-    <body style="background-color:#1c87c9;">
-    <h1>New Student Registeration for DevOps Learning</h1>
+    <body style="background-color:#FFFFE0;">
+	<FONT COLOR="#FFFF99">
+    <h1>New Student Registeration for DevOps Learning</h1></font>
     <p><h2>Please fill in this form to create an account.</h2></p>
     <hr>
      
@@ -25,14 +26,18 @@
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
     <br>
+     <FONT COLOR="#FFFF69">
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
   </div>
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
+	<FONT COLOR="#FFFF99">
+
 
    <h1> Thankyou, Happy Learning Maven project </h1>
 
   
 </form>
+
