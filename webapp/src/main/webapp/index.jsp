@@ -1,9 +1,9 @@
 <form action="action_page.php">
   <div class="container">
-<p align="center">
+
     <body style="background-color:#FFFFE0;">
 	<FONT COLOR="violet">
-    <h1>New Student Registeration for DevOps Learning</h1></font>
+    <h1><p align="center">New Student Registeration for DevOps Learning</p></h1></font>
     <p><h2>Please fill in this form to create an account.</h2></p>
     <hr>
      
