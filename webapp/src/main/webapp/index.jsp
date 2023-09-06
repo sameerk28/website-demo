@@ -37,7 +37,7 @@
 	<FONT COLOR="red">
 
 
-   <h1> Thankyou Very Much, Happy Learning with Maven project </h1>
+   <h1><p align="center"> Thankyou Very Much, Happy Learning with <i>Maven project</i></p> </h1>
 
   
 </form>
