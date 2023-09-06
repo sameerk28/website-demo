@@ -4,7 +4,7 @@
     <body style="background-color:#FFFFE0;">
 	<FONT COLOR="violet">
     <h1><p align="center">New Student Registeration for DevOps Learning</p></h1></font>
-    <p><h2>Please fill in this form to create an account.</h2></p>
+    <p><FONT COLOR="purple"><h2>Please fill in this form to create an account.</h2></font></p>
     <hr>
      
     <label for="Name"><b>Enter maven Name</b></label>
