@@ -1,7 +1,8 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for DevOps Learning</h1>
-    <p>Please fill in this form to create an account.</p>
+    <body style="background-color:#1c87c9;">
+    <h1>New Student Registeration for DevOps Learning</h1>
+    <p><h2>Please fill in this form to create an account.</h2></p>
     <hr>
      
     <label for="Name"><b>Enter maven Name</b></label>
