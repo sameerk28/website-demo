@@ -1,5 +1,6 @@
 <form action="action_page.php">
   <div class="container">
+<p align="justify">
     <body style="background-color:#FFFFE0;">
 	<FONT COLOR="violet">
     <h1>New Student Registeration for DevOps Learning</h1></font>
